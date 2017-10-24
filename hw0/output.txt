@@ -1,6 +1,13 @@
 ---
 name:
+<<<<<<< HEAD
    first: Mengran
    last: Wang
 email: mw1997@nyu.edu
 leaderboard: Flora
+=======
+   first: Abhinav
+   last: Gupta
+email: abhinavg@nyu.edu
+leaderboard: backpropper
+>>>>>>> upstream/master
